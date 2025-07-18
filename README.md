@@ -36,7 +36,7 @@ A simple and customizable **React-based Resume Builder** that allows users to:
 
 ## Screenshots
 
-![resume](online-resume-builder/images/resume.png)
+![resume](images/resume.png)
 
 ---
 
