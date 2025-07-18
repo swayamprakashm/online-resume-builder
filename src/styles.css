@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(-45deg, #00c6ff, #0072ff, #2af598, #00c6ff);
+  background-size: 400% 400%;
+  animation: gradientBG 12s ease infinite;
+  margin: 0;
+  padding: 0;
+}
+
+
+@keyframes gradientBG {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.container {
+  max-width: 960px;
+  margin: auto;
+  padding: 20px;
+}
+
+form {
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+form input, form textarea, form select {
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 8px;
+  font-size: 14px;
+}
+
+button {
+  padding: 10px 15px;
+  background: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+  border-radius: 4px;
+}
+
+.download {
+  background: #28a745;
+  margin-top: 20px;
+}
+
+.resume-preview {
+  background: white;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 8px;
+}
