@@ -1,6 +1,6 @@
 
 
-# 📝 Online Resume Builder
+# Online Resume Builder
 
 A simple and customizable **React-based Resume Builder** that allows users to:
 
@@ -12,11 +12,11 @@ A simple and customizable **React-based Resume Builder** that allows users to:
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🎨 Basic Canva-style form UI with colorful gradient background
-- ➕ Add multiple **Education** and **Projects** fields dynamically
-- ✏️ Input fields for:
+- Basic Canva-style form UI with colorful gradient background
+- Add multiple **Education** and **Projects** fields dynamically
+- Input fields for:
   - Name
   - Email
   - Address
@@ -29,18 +29,18 @@ A simple and customizable **React-based Resume Builder** that allows users to:
   - Hobbies & Strengths
   - Declaration
   - Signature
-- 🅰 Font selector (Calibri / Arial / Times New Roman)
-- 📄 Download as Word `.doc` format
+- Font selector (Calibri / Arial / Times New Roman)
+- Download as Word `.doc` format
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-![online-resume-builder](online-resume-builder/images/resume.png)
+![resume](online-resume-builder/images/resume.png)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: React + Vite.js
 - **Styling**: CSS (Flexbox, gradients, custom buttons)
@@ -48,7 +48,7 @@ A simple and customizable **React-based Resume Builder** that allows users to:
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/swayamprakashm/online-resume-builder.git
@@ -59,7 +59,7 @@ npm run dev
 
 ---
 
-## 📂 Folder Structure
+## Folder Structure
 
 ```
 src/
@@ -74,18 +74,16 @@ src/
 
 ---
 
-## ✍️ Author
+## Author
 
-**Macharla Swayam Prakash**
-📧 [https://github.com/swayamprakashm](https://github.com/swayamprakashm)
+**M Swayam Prakash**
+
+[https://github.com/swayamprakashm](https://github.com/swayamprakashm)
 
 ---
 
-## 📃 License
+## License
 
 This project is licensed under the MIT License.
 
 ```
-
----
-#
